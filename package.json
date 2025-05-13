@@ -33,7 +33,9 @@
     "prepare": "husky"
   },
   "dependencies": {
-    "alpinejs": "^3.13.7"
+    "@halo-dev/api-client": "^2.20.0",
+    "alpinejs": "^3.13.7",
+    "axios": "^1.9.0"
   },
   "lint-staged": {
     "*.{ts,json,yaml,yml,html}": [

@@ -1,21 +1,21 @@
 apiVersion: theme.halo.run/v1alpha1
 kind: Theme
 metadata:
-  name: theme-modern-starter
+  name: halo-theme-news
 spec:
-  displayName: Modern Starter
+  displayName: Modern News
   author:
-    name: Halo
-    website: https://github.com/halo-dev
+    name: Tassel
+    website: https://github.com/CompulsorySkill/halo-theme-news
   description: A development starter theme with Vite Ecosystem for Halo
   logo: https://www.halo.run/logo
-  homepage: https://github.com/halo-dev/theme-modern-starter#readme
-  repo: https://github.com/halo-dev/theme-modern-starter
-  issues: https://github.com/halo-dev/theme-modern-starter/issues
-  settingName: "theme-modern-starter-setting"
-  configMapName: "theme-modern-starter-configMap"
+  homepage: https://github.com/CompulsorySkill/halo-theme-news##readme
+  repo: https://github.com/CompulsorySkill/halo-theme-news#
+  issues: https://github.com/CompulsorySkill/halo-theme-news#/issues
+  settingName: "theme-modern-news-setting"
+  configMapName: "theme-modern-news-configMap"
   version: "1.0.0"
   requires: "2.0.0"
   license:
     - name: "GPL-3.0"
-      url: "https://github.com/halo-dev/theme-modern-starter/blob/main/LICENSE"
+      url: "https://github.com/CompulsorySkill/halo-theme-news#/blob/main/LICENSE"
